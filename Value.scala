@@ -1,6 +1,0 @@
-package value
-
-trait Value 
-{
-  
-}
